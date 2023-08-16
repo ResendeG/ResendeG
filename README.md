@@ -7,8 +7,8 @@
   <br>
   
 <div align="center" display="flex">  
-  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ResendeG&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"   alt="ResendeG github stats" /> 
-  <img width="32%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResendeG&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ResendeG&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"   alt="ResendeG github stats" /> 
+  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResendeG&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
 ##

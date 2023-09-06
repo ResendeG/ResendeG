@@ -28,7 +28,6 @@
   <div>
     <img src="https://img.shields.io/badge/node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00FFD9&color=black" width="auto" height="30">
     <img src="https://img.shields.io/badge/react-0D1117?style=for-the-badge&logo=react&logoColor=00FFD9&color=black" width="auto" height="30">
-    <img src="https://img.shields.io/badge/typescript-0D1117?style=for-the-badge&logo=typescript&logoColor=00FFD9&color=black" width="auto" height="30">
   </div>
 
 ##
